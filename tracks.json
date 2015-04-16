@@ -53,7 +53,7 @@
     "waveform_url": "https://w1.sndcdn.com/cax8mSNReLI9_m.png",
     "stream_url": "https://api.soundcloud.com/tracks/197433525/stream",
     "attachments_uri": "https://api.soundcloud.com/tracks/197433525/attachments",
-    "background": "assets/images/pizza.png",
+    "background": "assets/images/tropical1.jpg",
     "policy": "ALLOW"
   }, {
     "kind": "track",
@@ -81,7 +81,7 @@
     "waveform_url": "https://w1.sndcdn.com/MHHlejwub8HC_m.png",
     "stream_url": "https://api.soundcloud.com/tracks/124668023/stream",
     "attachments_uri": "https://api.soundcloud.com/tracks/124668023/attachments",
-    "background": "assets/images/pizza.png",
+    "background": "assets/images/tropical2.jpg",
     "policy": "ALLOW"
   }, {
     "kind": "track",
@@ -109,7 +109,7 @@
     "waveform_url": "https://w1.sndcdn.com/P0EljAbNEFYS_m.png",
     "stream_url": "https://api.soundcloud.com/tracks/106257337/stream",
     "attachments_uri": "https://api.soundcloud.com/tracks/106257337/attachments",
-    "background": "assets/images/pizza.png",
+    "background": "assets/images/tropical3.jpg",
     "policy": "ALLOW"
   }, {
     "kind": "track",
@@ -138,7 +138,7 @@
     "stream_url": "https://api.soundcloud.com/tracks/197657214/stream",
     "download_url": "https://api.soundcloud.com/tracks/197657214/download",
     "attachments_uri": "https://api.soundcloud.com/tracks/197657214/attachments",
-    "background": "assets/images/pizza.png",
+    "background": "assets/images/tropical5.jpg",
     "policy": "ALLOW"
   },{
     "kind": "track",

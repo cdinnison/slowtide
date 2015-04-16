@@ -13,5 +13,6 @@
   },
   "scripts": {
     "start": "gulp"
+    "postinstall": "gulp default"
   }
 }
