@@ -1,6 +1,6 @@
-# MRSJXN
+# FORK FROM MRSJXN
 
-http://mrsjxn.com
+major props to http://mrsjxn.com
 
 # Get Started
 
